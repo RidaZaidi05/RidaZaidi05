@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/flat-design-illustration-woman-programmer-working-from-home_207579-821.jpg?w=740">
 
-- 🔭 I’m currently working on [AI Powered Website used for Brain Stroke Segmentation](https://github.com/RidaZaidi05/AI-Powered-Web-for-Brain-Stroke-Segmentation)
+- 🔭 I’m currently working on [AI Powered Website used for Brain Stroke Segmentation](https://github.com/Ali-Hassan02/AI-Powered-Web-for-Brain-Stroke-Segmentation)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RidaZaidi05](https://github.com/RidaZaidi05)
 
